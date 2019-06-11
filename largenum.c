@@ -27,7 +27,7 @@ int main()
 	else
 	{
 	for(i=n-1;i>=0;i--)
-	printf("%d ",a[i]);
+	printf("%d",a[i]);
 	}	
 		
 }
